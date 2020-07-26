@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://porkinspolicyreview.com/">Porkins Policy Radio</a> podcast.<br>
 
-<img src="https://porkinspolicyreview.files.wordpress.com/2017/02/ppr-logo-1400x1400.png"><br>
+<img src="https://secureimg.stitcher.com/feedimagesplain328/155739.jpg"><br>
 
 Porkins Policy Radio is an alternative research radio show based in New York City. It covers a wide variety of topics including geopolitics, terrorism, cults, popular culture, true crime, and deep-state events.<br>
 
